@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ikhtiyarak-website.pages.dev/sitemap.xml
